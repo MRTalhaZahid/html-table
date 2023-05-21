@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+
+<body>
+  <center>
+    <table border="10px" , style="padding: 10px;"  >
+        <tr>
+            <th rowspan="3"><img src="./pic/download.jpg" alt=""></th>
+            <th colspan="3" style="font-size: xx-large;">SHIBLEE GROUP OF COLLEGES, FSD.</th>
+        </tr>
+        <tr>
+            <td><b>Admission Form</b></td>
+            <td><b>Roll number---------</b></td>
+            <td><b>session--------</b></td>
+        </tr>
+        <td  >Applicant should fill this carefully in his/her own handwriting, get it countersigned by his/her father or
+            guardian,<br> and attach attested copies of certificates (not returnable in any case), as evidence of the
+            following particulars <br> before submitting to the college office.</td>
+            <td colspan="2" >Religion--------</td>
+            <tr>
+                <td rowspan="2">Name (in Block Letters)</td>
+                <td colspan="3" >In English</td>
+                
+            </tr>
+            <tr>
+                <td colspan="3">In urdu</td>  
+            </tr>
+            <tr>
+                <td rowspan="2">Father's Name</td>
+                <td colspan="3" >In English</td>        
+            </tr>
+            <tr>
+                <td colspan="2">In urdu</td>  
+                
+            </tr>
+           <tr>
+            <td rowspan="4" >Father's/Guardian's Occupation (If in service, State designation)</td>
+           </tr>
+           <tr>
+            <td>In urdu</td>
+            <td colspan="2" >Mob. Student</td>
+           </tr>
+           
+           <tr>
+            <td rowspan="2" >In English</td>
+            <td colspan="2">Mob. Guardian</td>
+           </tr>
+           <tr>
+            <td colspan="2" >RES:</td>
+           </tr>
+           <tr>
+            <td rowspan="2">Permanent Home Address (Change must be reported)</td>
+           </tr>
+           <tr>
+            <td colspan="3" >write here</td>
+           </tr>
+        <tr>
+            <td rowspan="2" >Mailing Address</td>
+        </tr>
+        <tr>
+            <td colspan="3" >write here</td>
+        </tr>
+        <tr>
+            <td >Date of Birth in</td>
+            <td >Date</td>
+            <td >month</td>
+            <td>Year</td>
+            <td>Nationality</td>
+        </tr>
+    </table>
+  </center>
+  
+    <center>
+        <table  border="10px" , style="padding: 10px;" ;"  >
+            <tr>
+                <th colspan="4" >Examination Result</th>
+                <th colspan="3" >Year of Passing</th>
+                <th colspan="3" >Annual/ Supply</th>
+                <th colspan="3" >Roll No.</th>
+                <th colspan="3"  >Reg. No.</th>
+                <th colspan="3" >Marks</th>
+                <th colspan="3" >%Age Group</th>
+                <th colspan="3" >Board/ University</th> 
+            </tr>
+            <tr>
+                <th colspan="4" >Matriculation</th>
+            </tr>
+            <tr>
+                <th colspan="4" >Intermediate</th>
+            </tr>
+            <tr>
+                <th colspan="4" >Graduation</th>
+            </tr>
+    
+    
+        </table>
+    </center>
+</body>
+
+</html>
